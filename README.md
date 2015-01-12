@@ -4,8 +4,8 @@
 --
 
 ##MEMBERS
-*yuichilo
-*mrj-jony
+yuichilo
+mrj-jony
 
 ##ファイル構成
 
