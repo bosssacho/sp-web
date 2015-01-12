@@ -4,8 +4,9 @@
 --
 
 ##MEMBERS
-yuichilo
+yuichilo(me)
 mrj-jony
+(got)
 
 ##ファイル構成
 
