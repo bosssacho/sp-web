@@ -7,7 +7,7 @@
 ##MEMBERS
 yuichilo(me)
 mrj-jony
-(got)
+dっｄ(got)
 
 ##ファイル構成
 
